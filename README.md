@@ -1,0 +1,2 @@
+# fundamentals-of-ai
+assignments
